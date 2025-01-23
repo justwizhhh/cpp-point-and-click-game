@@ -1,0 +1,10 @@
+Asset Credits
+More Games in C++ - Point and Click game
+
+-------------------------------------------
+
+"Generic Dungeon Pack" level assets made by Estudio Vaca Roxa (Bakudas) - Accessed from: https://bakudas.itch.io/generic-dungeon-pack
+'Valley' font made by Damien Guard (ZX Origins) - Accessed from: https://damieng.com/typography/zx-origins/valley/
+Player graphic and additional level graphics made by me (Dominik Heiler)
+
+-------------------------------------------
